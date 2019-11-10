@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "DnD Beyond Fullscreen",
+  "version": "0.1",
+  "description": "Adds a fullscreen button to the dnd beyond main menu",
+  "content_scripts": [{
+    "matches": ["*://*.dndbeyond.com/*"],
+    "js": ["add-fullscreen-buttons.js"]
+  }]
+}
