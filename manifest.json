@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "DnD Beyond Fullscreen",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Adds a fullscreen button to the dnd beyond main menu",
   "homepage_url": "https://github.com/heikomat/dnd-beyond-fullscreen-firefox-addon",
   "content_scripts": [{
